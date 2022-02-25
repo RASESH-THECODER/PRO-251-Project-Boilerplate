@@ -8,9 +8,6 @@
 const char ssid[] = "your ssid";
 const char password[] = "your password";
 
-//  API url
-String api = "write your API here";
-
 //  potpin on GPIO 34
 const int potpin = 34;
 
