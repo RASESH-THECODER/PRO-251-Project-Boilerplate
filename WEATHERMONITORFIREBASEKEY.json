@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "weathermonitoringsystem-c4afd",
+  "private_key_id": "7fd014077f6ef043b3ccdcefd74f56962dd4bce3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD2lFKwNpOPrRzV\nXLwcvHXVM72Yg9TNeGndTI0SD8YTxNHQY2Hq/mgKDHSOKbQw1WR0YVnPz9FgzL6V\n1OnsGbI/LZswi0kfEuu6E01kTdwvEwC13h1XLLl8cntlrN9MlhU2V93lLFZhwiUn\nHKU+/jksVEVddM0e+DS8LuPyVgXY6J3nwMw1CMrDrMmpCYq7DCVj3mWpUJsQB81d\npd62vcEjZXWXvUU//gCiD2vB7YDZYa7mVKjZ6FEUoJEhNrIuXNNCnAd8weFEOjgS\nDIaTCwBHH8r3d+ddx8QzXoP1wxy5Uc7U01s3hkZx+oSopoxuCLl1/OQHkR3nQL/c\ncG3WkB2tAgMBAAECggEAFdbQNgw3aI/IEHusq4zjkNUK01HFzMb/9Vo82l8sR370\nqFTNDN+ofk9ZGWhHLdYQliAzMK0y2bR4otOfPkqOV3smFhgYC1kFKM9h2OLuf/ra\nYsE/7wMmkIehN0Gm62UVjuEcZZpWMkVcPgkS96/Th4IVPLBGJJqOLSaoCMQms23G\nYSUtwt09bZPwL5HGPBBiIHAJDNoFloUqbf/yIizKreoroiJvXh5Qh88tPc5TvI0n\nVEkk6NOLsEBN68PMEWQDAppk8M+qJc5PCq9iwVrOgRxqpRw6DOlAiKnZIqST6cdC\n2L118kEogyX2eE7IoG2Y0eWc1J5zxlAAlDTKHk3tTwKBgQD7VDProGHSqBmUEqBR\n6ZtRPXm93w1k9QOP8Pw8cC5hNCqEYm+LsbA3PXJV4khpQfJmjKh1SFv1aG+PuZBc\nFBo4usNosICwlzkynVHxWi7IiYtHQV1fNa+c9rIqeYTV3WksX0B/DjHRMd9QLXO+\nqmxefwUWGIJdQVr007TagzG6KwKBgQD7KYW8kW6/AF5zHKR2PVt5XtEVvuFvoxC5\nN15ovKxQLixA6YfJioZjIhLzTAx9zqhKvAwTBXRuYa2zfhxoy1VDjZV4cM0LecHk\nwNrkOSqNWXfbm94aSca321dvzVzWk8qd1A1k2fXulphBgIBzhMDLzekQUl3hGMDn\ntuHMkXFThwKBgDC0FIuovMwxvyMuqNq2xl5r51egDdxujo4qSPb9Vj+H+GVHHg6Y\nFGngAnQaMaYUHYE56LsxloBsCJJ1h0AQtTQhHRUAfy+5XmAslGCM9VvvK4pXZFy6\n7pkgRU5t1gwLqAHtQ3ZbrdO4Mmo7JJ7iL7XwL3Akt76Sl6myDO37VnuZAoGBAKqj\n5VbeQC3IpGL0/M/QlAt73fY2P5fHZB9SfPQP68p19F8NytGlKfTEO7fM3VfERhaw\neEucEyTDfG5MqiSQsRc6ZGj1ynmXeaJfXNhd9okeVg6AcX/OzBIyFc/B6OdodeqR\nHaB9bVdyPXOTSLIzaYGOHmCWdW3vkXBckkCYODSVAoGAIQ8mR0R4kBuJSM8McBjW\njw2SAtbajhMVIrtG0df4PdnVO9MXvLrplnuDpX0GrahFpcFAQPuWAg6oCgImvSDJ\neWcMIE+8oFp2r9/4RZpdfJ4t9+Psedsv1PNIyx3P1YGQPBq4h930h5OPrLyOA1bD\nGsOUa5AIdWcJa5pk/PCswlQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gqy2h@weathermonitoringsystem-c4afd.iam.gserviceaccount.com",
+  "client_id": "108335415146066622462",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gqy2h%40weathermonitoringsystem-c4afd.iam.gserviceaccount.com"
+}
